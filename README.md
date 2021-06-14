@@ -1,0 +1,2 @@
+# mosy
+Corona-Einkaufen-App
