@@ -1,2 +1,2 @@
 # mosy
-Corona-Einkaufen-App
+Shoppinghelper-App
